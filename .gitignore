@@ -1,0 +1,27 @@
+# Java / Maven
+/target/
+/*.iml
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Logs
+*.log
